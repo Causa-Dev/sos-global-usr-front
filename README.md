@@ -1,38 +1,38 @@
-# 🌊 Frontend para App de Ajuda em Enchentes 🌊
+# 🌍 Frontend Global para Aplicações de Resposta a Desastres 🌍
 
-Este projeto é o frontend de um aplicativo destinado a auxiliar na organização e distribuição de suprimentos, além de coordenar voluntários durante os alagamentos no Rio Grande do Sul. A aplicação visa conectar pessoas afetadas pelas enchentes com recursos essenciais e voluntários dispostos a ajudar.
+Bem-vindos ao repositório `sos-global-usr-front`! Este é o frontend do **SOS Global**, uma expansão ambiciosa do [SOS-RS](https://github.com/SOS-RS). Nosso objetivo é fornecer uma plataforma robusta e adaptável que assista na organização de recursos e na coordenação de voluntários durante catástrofes naturais ou crises humanitárias em todo o mundo.
 
-O objetivo deste aplicativo é facilitar uma resposta rápida e eficiente em situações de emergência causadas por enchentes, promovendo a colaboração e o apoio mútuo entre a comunidade e organizações de ajuda.
+## Sobre o SOS Global User Front
 
-Se você quiser discutir ideias, problemas ou contribuições, sinta-se à vontade para se juntar ao nosso servidor do
-Discord [aqui](https://discord.gg/vjZS6BQXvM).
+O `sos-global-usr-front` é um componente crítico no ecossistema do SOS Global, permitindo uma interação intuitiva e eficiente com a plataforma. Desenvolvido com tecnologias de ponta, este frontend é projetado para ser acessível, responsivo e fácil de usar, garantindo que ajuda chegue onde é mais necessária, de forma rápida e organizada.
 
-## Acesso à Aplicação
+## Contribuição e Colaboração
 
-[SOS Rio Grande do Sul](https://sos-rs.com/)
+Estamos nos estágios iniciais de desenvolvimento e sua contribuição é vital. Este projeto é open-source e depende da colaboração da comunidade global para crescer e melhorar. Se você tem interesse em contribuir, visite nosso [guia de contribuição](https://github.com/Causa-Dev/causa-dev-contribution-guide).
 
-## 🤝 Contribuição
+### Tecnologias Utilizadas
 
-Contribuições são muito bem-vindas! Se deseja ajudar, veja o
-[documento de contribuição](./CONTRIBUTING.md).
+- [**React**](https://react.dev/): Para construir uma interface dinâmica.
+- [**Vite**](https://vitejs.dev/guide/): Para um desenvolvimento e build rápidos.
+- [**Tailwind CSS**](https://tailwindcss.com/docs/installation): Para um design responsivo e moderno.
+- [**shadcn/ui**](https://ui.shadcn.com/docs): Componentes reutilizáveis que aceleram o desenvolvimento.
 
-Agradecemos o seu interesse e apoio. Juntos, podemos fazer uma diferença significativa para as vítimas das enchentes no Rio Grande do Sul!
+## Links Úteis
 
-## Tecnologias Utilizadas
+- [Repositório do SOS Global Conception](https://github.com/Causa-Dev/sos-global-conception)
+- [Repositório do SOS Global API](https://github.com/Causa-Dev/sos-global-api)
+- [Guia de Contribuição da Causa Dev](https://github.com/Causa-Dev/causa-dev-contribution-guide)
+- [Projeto base SOS-RS](https://github.com/SOS-RS)
 
-Este frontend foi desenvolvido utilizando as seguintes tecnologias:
+## Sobre a Causa Dev
 
-- [**React**](https://react.dev/): Uma biblioteca JavaScript para construir interfaces de usuário.
-- [**Vite**](https://vitejs.dev/guide/): Uma ferramenta de build com servidor de desenvolvimento.
-- [**Tailwind CSS**](https://tailwindcss.com/docs/installation): Framework CSS baseado em classes utilitárias.
-- [**shadcn/ui**](https://ui.shadcn.com/docs): Coleção de componentes reutilizáveis, baseado em Tailwind.
+A Causa Dev é uma ONG comprometida em usar a tecnologia para resolver problemas sociais críticos. Nossa missão é desenvolver soluções que não apenas respondam às emergências, mas que também promovam a inclusão e o bem-estar comunitário.
 
-## Licença
+## Fique Conectado
 
-Este código está licenciado usando a
-[licença MIT](./LICENSE).
+Para atualizações regulares sobre o progresso do SOS Global, siga nossa página no LinkedIn:
+- [Página da Causa Dev no LinkedIn](https://linkedin.com/company/causa-dev)
 
-## Contribuidores
+Agradecemos seu interesse e apoio ao SOS Global. Juntos, podemos fazer uma diferença significativa na maneira como o mundo responde a catástrofes e crises humanitárias.
 
-Os contribuidores são voluntários, e podem ser encontrados
-[na página de contribuidores](https://github.com/SOS-RS/frontend/graphs/contributors).
+**Junte-se a nós e transforme solidariedade em ação global!**
